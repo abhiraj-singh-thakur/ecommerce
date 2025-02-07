@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  client:
+    build: ./client
+    ports:
+      - "3000:3000"
+    depends_on:
+      - server
+    networks:
+      - ecommerce-network
+
+  server:
+    build: ./server
+    ports:
+      - "1337:1337"
+    networks:
+      - ecommerce-network
+
+networks:
+  ecommerce-network:

@@ -1,0 +1,44 @@
+.Home {
+  .collection {
+    margin-top: 40px;
+
+    .info {
+      .sub-heading {
+        font-size: 1rem;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .heading {
+        text-align: center;
+      }
+    }
+
+    .content {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      column-gap: 1%;
+      margin-top: 20px;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .Home {
+    .collection {
+      .info {
+        .heading {
+          text-align: center;
+        }
+
+        .sub-heading {
+          margin-top: 20px;
+          font-size: 0.95rem;
+          text-align: center;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "attributes": {
+            "Title": "Naruto",
+            "key": "naruto",
+            "createdAt": "2023-12-20T06:53:59.646Z",
+            "updatedAt": "2023-12-21T06:20:51.996Z",
+            "publishedAt": "2023-12-20T07:25:31.569Z",
+            "image": {
+                "data": [
+                    {
+                        "id": 2,
+                        "attributes": {
+                            "name": "Naruto.jpeg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 347,
+                            "height": 145,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_Naruto.jpeg",
+                                    "hash": "thumbnail_Naruto_f1e63ae954",
+                                    "ext": ".jpeg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 245,
+                                    "height": 102,
+                                    "size": 9.98,
+                                    "url": "https://res.cloudinary.com/dnabs4wde/image/upload/v1703056783/thumbnail_Naruto_f1e63ae954.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_Naruto_f1e63ae954",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "Naruto_f1e63ae954",
+                            "ext": ".jpeg",
+                            "mime": "image/jpeg",
+                            "size": 14.23,
+                            "url": "https://res.cloudinary.com/dnabs4wde/image/upload/v1703056784/Naruto_f1e63ae954.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "Naruto_f1e63ae954",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-20T07:19:43.640Z",
+                            "updatedAt": "2023-12-20T14:32:05.890Z"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "attributes": {
+            "Title": "One Piece",
+            "key": "one-piece",
+            "createdAt": "2023-12-20T07:26:05.076Z",
+            "updatedAt": "2023-12-21T06:29:03.359Z",
+            "publishedAt": "2023-12-20T07:26:07.832Z",
+            "image": {
+                "data": [
+                    {
+                        "id": 6,
+                        "attributes": {
+                            "name": "One-pieace-banner.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 265,
+                            "height": 148,
+                            "formats": {
+                                "thumbnail": {
+                                    "name": "thumbnail_One-pieace-banner.jpg",
+                                    "hash": "thumbnail_One_pieace_banner_790db5482f",
+                                    "ext": ".jpg",
+                                    "mime": "image/jpeg",
+                                    "path": null,
+                                    "width": 245,
+                                    "height": 137,
+                                    "size": 2.94,
+                                    "url": "https://res.cloudinary.com/dnabs4wde/image/upload/v1703082938/thumbnail_One_pieace_banner_790db5482f.jpg",
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_One_pieace_banner_790db5482f",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "One_pieace_banner_790db5482f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2.76,
+                            "url": "https://res.cloudinary.com/dnabs4wde/image/upload/v1703082938/One_pieace_banner_790db5482f.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "One_pieace_banner_790db5482f",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-20T14:35:37.844Z",
+                            "updatedAt": "2023-12-20T14:35:37.844Z"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
